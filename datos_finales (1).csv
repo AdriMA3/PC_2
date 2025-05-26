@@ -1,0 +1,177 @@
+country,region,reserves_US,Btu_energy,kW_electricity,%_PBI_education,reserves_level,energy_level,electricity_level,education_level
+china,east and southeast asia,3265000000000,113805000,2949000000,3.6,Muy alto,Muy alto,Muy alto,Bajo
+japan,east and southeast asia,1160000000000,129504000,361617000,3.4,Muy alto,Muy alto,Muy alto,Bajo
+switzerland,europe,822130000000,99578000,26502000,5.2,Muy alto,Alto,Alto,Alto
+russia,central asia,597217000000,224858000,301926000,3.7,Muy alto,Muy alto,Muy alto,Bajo
+india,south asia,569544000000,25179000,499136000,4.5,Muy alto,Bajo,Muy alto,Medio
+saudi arabia,middle east,436769000000,349692000,119620000,7.8,Muy alto,Muy alto,Muy alto,Muy alto
+hong kong,east and southeast asia,425554000000,116811000,13300000,4.0,Muy alto,Muy alto,Alto,Medio
+"korea, south",east and southeast asia,409457000000,234668000,151139000,4.7,Muy alto,Muy alto,Muy alto,Medio
+singapore,east and southeast asia,365494000000,643259000,13134000,2.8,Muy alto,Muy alto,Alto,Muy bajo
+brazil,south america,318857000000,48889000,240251000,6.0,Muy alto,Medio,Muy alto,Muy alto
+united arab emirates,middle east,231690000000,450432000,44462000,3.9,Muy alto,Muy alto,Muy alto,Bajo
+united states,north america,227760000000,278474000,1235000000,6.1,Muy alto,Muy alto,Muy alto,Muy alto
+mexico,north america,221944000000,57539000,105586000,4.3,Muy alto,Medio,Muy alto,Medio
+thailand,east and southeast asia,217261000000,80602000,55971000,3.2,Muy alto,Alto,Muy alto,Bajo
+israel,middle east,214544000000,112437000,22612000,7.1,Muy alto,Alto,Alto,Muy alto
+poland,europe,185515000000,103651000,64806000,5.2,Muy alto,Alto,Muy alto,Alto
+indonesia,east and southeast asia,149118000000,37390000,70826000,3.5,Muy alto,Medio,Muy alto,Bajo
+united kingdom,europe,148569000000,94280000,114749000,5.5,Muy alto,Alto,Muy alto,Alto
+czechia,europe,141988000000,136306000,21802000,5.1,Muy alto,Muy alto,Alto,Alto
+iran,middle east,120600000000,160779000,86058000,3.6,Muy alto,Muy alto,Muy alto,Bajo
+canada,north america,117551000000,311599000,161988000,5.2,Muy alto,Muy alto,Muy alto,Alto
+malaysia,east and southeast asia,112968000000,113163000,37220000,3.9,Muy alto,Alto,Muy alto,Bajo
+denmark,europe,103239000000,98513000,20794000,6.4,Muy alto,Alto,Alto,Muy alto
+germany,europe,96792000000,120457000,275658000,4.7,Muy alto,Muy alto,Muy alto,Medio
+philippines,east and southeast asia,95251000000,17654000,29174000,3.7,Muy alto,Bajo,Alto,Bajo
+vietnam,east and southeast asia,92238000000,40263000,85725000,4.1,Muy alto,Medio,Muy alto,Medio
+turkey (turkiye),middle east,90859000000,70521000,106281000,3.4,Muy alto,Alto,Muy alto,Bajo
+iraq,middle east,87048000000,64311000,31339000,4.7,Muy alto,Alto,Alto,Medio
+italy,europe,84875000000,96797000,128692000,4.3,Muy alto,Alto,Muy alto,Medio
+spain,europe,84154000000,101120000,130366000,4.6,Muy alto,Alto,Muy alto,Medio
+norway,europe,81242000000,206961000,41100000,5.9,Muy alto,Muy alto,Muy alto,Alto
+france,europe,78429000000,123526000,151463000,5.5,Muy alto,Muy alto,Muy alto,Alto
+peru,south america,76338000000,30923000,16164000,4.0,Muy alto,Medio,Alto,Medio
+algeria,africa,68448000000,61843000,22591000,7.0,Muy alto,Medio,Alto,Muy alto
+romania,europe,64699000000,59377000,19748000,3.7,Muy alto,Medio,Alto,Bajo
+colombia,south america,61506000000,29305000,21053000,4.9,Alto,Bajo,Alto,Medio
+south africa,africa,54912000000,86197000,65989000,6.6,Alto,Alto,Muy alto,Muy alto
+australia,australia and oceania,54455000000,223158000,108193000,6.1,Alto,Muy alto,Muy alto,Muy alto
+sweden,europe,52023000000,142102000,55307000,7.2,Alto,Muy alto,Muy alto,Muy alto
+qatar,middle east,44692000000,814308000,11400000,3.2,Alto,Muy alto,Alto,Bajo
+chile,south america,44382000000,71420000,39238000,5.6,Alto,Alto,Muy alto,Alto
+kuwait,middle east,44104000000,389848000,20294000,6.6,Alto,Muy alto,Alto,Muy alto
+ukraine,europe,41485000000,57856000,60297000,5.4,Alto,Medio,Muy alto,Alto
+bulgaria,europe,40270000000,102171000,12939000,4.0,Alto,Alto,Alto,Medio
+nigeria,africa,38612000000,7993000,4094000,0.5,Alto,Muy bajo,Medio,Muy bajo
+hungary,europe,37194000000,96152000,14829000,4.8,Alto,Alto,Alto,Medio
+morocco,africa,35269000000,23520000,14615000,6.8,Alto,Bajo,Alto,Muy alto
+egypt,africa,34278000000,34975000,59680000,2.5,Alto,Medio,Muy alto,Muy bajo
+macau,east and southeast asia,29392000000,64641000,427000,6.3,Alto,Alto,Bajo,Muy alto
+netherlands,europe,27753000000,185536000,59982000,5.3,Alto,Muy alto,Muy alto,Alto
+serbia,europe,26445000000,91884000,8202000,3.6,Alto,Alto,Alto,Bajo
+turkmenistan,central asia,24910000000,261142000,6512000,3.1,Alto,Muy alto,Medio,Muy bajo
+argentina,south america,24381000000,78496000,47631000,5.0,Alto,Alto,Muy alto,Alto
+guatemala,central america and the caribbean,23834000000,17096000,4995000,3.1,Alto,Bajo,Medio,Muy bajo
+belgium,europe,22374000000,190416000,28248000,6.7,Alto,Muy alto,Alto,Muy alto
+new zealand,australia and oceania,22065000000,121647000,10643000,6.0,Alto,Muy alto,Alto,Muy alto
+kazakhstan,central asia,21980000000,172936000,27624000,4.5,Alto,Muy alto,Alto,Medio
+bangladesh,south asia,20225000000,11472000,22699000,2.1,Alto,Bajo,Alto,Muy bajo
+cambodia,east and southeast asia,18608000000,15664000,3673000,3.1,Alto,Bajo,Medio,Muy bajo
+uruguay,south america,17369000000,45755000,5682000,4.6,Alto,Medio,Medio,Medio
+oman,middle east,17298000000,296586000,11589000,5.4,Alto,Muy alto,Alto,Alto
+jordan,middle east,15929000000,32909000,6891000,3.2,Alto,Medio,Medio,Bajo
+finland,europe,14322000000,183540000,26782000,5.9,Alto,Muy alto,Alto,Alto
+angola,africa,14243000000,9146000,7600000,2.4,Alto,Bajo,Alto,Muy bajo
+costa rica,central america and the caribbean,14177000000,30725000,3751000,6.7,Alto,Medio,Medio,Muy alto
+dominican republic,central america and the caribbean,13424000000,39329000,6581000,4.6,Alto,Medio,Medio,Medio
+pakistan,south asia,12977000000,14076000,43512000,2.4,Alto,Bajo,Muy alto,Muy bajo
+azerbaijan,central asia,12699000000,66467000,8383000,4.3,Alto,Alto,Alto,Medio
+nepal,south asia,12456000000,6604000,2853000,4.2,Alto,Muy bajo,Medio,Medio
+austria,europe,11919000000,120211000,33371000,5.1,Alto,Muy alto,Muy alto,Alto
+slovakia,europe,11793000000,127582000,8138000,4.6,Medio,Muy alto,Alto,Medio
+ireland,europe,11688000000,113837000,12321000,3.1,Medio,Muy alto,Alto,Muy bajo
+portugal,europe,10332000000,73285000,25409000,5.0,Medio,Alto,Alto,Alto
+kenya,africa,10065000000,5486000,3824000,4.8,Medio,Muy bajo,Medio,Medio
+paraguay,south america,9886000000,25733000,8928000,3.3,Medio,Bajo,Alto,Bajo
+venezuela,south america,9794000000,54474000,33493000,1.3,Medio,Medio,Muy alto,Muy bajo
+afghanistan,south asia,9749000000,3380000,627000,2.9,Medio,Muy bajo,Bajo,Muy bajo
+burma,east and southeast asia,9338000000,8384000,7419000,2.1,Medio,Bajo,Medio,Muy bajo
+lebanon,middle east,9240000000,43105000,5161000,1.7,Medio,Medio,Medio,Muy bajo
+uzbekistan,central asia,9145000000,55305000,17901000,4.9,Medio,Medio,Alto,Medio
+tunisia,africa,8770000000,33754000,6639000,7.3,Medio,Medio,Medio,Muy alto
+honduras,central america and the caribbean,7543000000,16642000,3334000,6.4,Medio,Bajo,Medio,Muy alto
+mauritius,africa,7465000000,60188000,955000,4.9,Medio,Medio,Bajo,Medio
+lithuania,europe,6920000000,83700000,5426000,4.0,Medio,Alto,Medio,Medio
+panama,central america and the caribbean,6856000000,78010000,4485000,3.9,Medio,Alto,Medio,Bajo
+albania,europe,6455000000,27407000,2857000,3.1,Medio,Bajo,Medio,Muy bajo
+cote d'ivoire,africa,6257000000,8489000,2315000,3.4,Medio,Bajo,Bajo,Bajo
+nicaragua,central america and the caribbean,6105000000,10660000,1849000,4.6,Medio,Bajo,Bajo,Medio
+sri lanka,south asia,6055000000,12372000,5326000,1.9,Medio,Bajo,Medio,Muy bajo
+greece,europe,5610000000,92693000,24169000,4.4,Medio,Alto,Alto,Medio
+moldova,europe,5477000000,35686000,779000,6.4,Medio,Medio,Bajo,Muy alto
+bahrain,middle east,5118000000,554202000,7031000,2.2,Medio,Muy alto,Medio,Muy bajo
+"congo, democratic republic of the",africa,5104000000,1305000,3229000,2.7,Medio,Muy bajo,Medio,Muy bajo
+tanzania,africa,5050000000,4091000,1818000,3.3,Medio,Muy bajo,Bajo,Bajo
+mongolia,east and southeast asia,4891000000,67132000,1510000,4.7,Medio,Alto,Bajo,Medio
+cameroon,africa,4882000000,4271000,1798000,3.2,Medio,Muy bajo,Bajo,Bajo
+jamaica,central america and the caribbean,4869000000,42095000,1242000,6.0,Medio,Medio,Bajo,Muy alto
+botswana,africa,4756000000,32443000,758000,8.7,Medio,Medio,Bajo,Muy alto
+ecuador,south america,4703000000,35700000,8438000,3.7,Medio,Medio,Alto,Bajo
+latvia,europe,4591000000,65908000,3428000,6.0,Medio,Alto,Medio,Muy alto
+belarus,europe,4392000000,104821000,12653000,4.7,Medio,Alto,Alto,Medio
+brunei,east and southeast asia,4032000000,403365000,904000,4.4,Medio,Muy alto,Bajo,Medio
+papua new guinea,east and southeast asia,3901000000,8781000,1148000,1.4,Medio,Bajo,Bajo,Muy bajo
+georgia,central asia,3848000000,56076000,4526000,3.6,Medio,Medio,Medio,Bajo
+ethiopia,africa,3784000000,2366000,5690000,4.5,Medio,Muy bajo,Medio,Medio
+armenia,central asia,3684000000,54689000,4265000,2.8,Bajo,Medio,Medio,Muy bajo
+ghana,africa,3624000000,10493000,5519000,3.9,Bajo,Bajo,Medio,Bajo
+el salvador,central america and the caribbean,3590000000,24421000,2803000,4.1,Bajo,Bajo,Medio,Medio
+mozambique,africa,3513000000,5789000,2860000,6.3,Bajo,Muy bajo,Medio,Muy alto
+uganda,africa,3359000000,2252000,1452000,2.7,Bajo,Muy bajo,Bajo,Muy bajo
+namibia,africa,3356000000,21734000,646000,9.6,Bajo,Bajo,Bajo,Muy alto
+croatia,europe,3336000000,79907000,5518000,5.5,Bajo,Alto,Medio,Alto
+tajikistan,central asia,3304000000,16192000,6481000,5.9,Bajo,Bajo,Medio,Alto
+kyrgyzstan,central asia,3237000000,27580000,3944000,6.2,Bajo,Bajo,Medio,Muy alto
+zambia,africa,3173000000,8265000,3986000,3.7,Bajo,Muy bajo,Medio,Bajo
+madagascar,africa,2785000000,1816000,759000,3.1,Bajo,Muy bajo,Bajo,Muy bajo
+luxembourg,europe,2602000000,224651000,2212000,5.0,Bajo,Muy alto,Bajo,Alto
+haiti,central america and the caribbean,2566000000,3486000,472000,1.4,Bajo,Muy bajo,Bajo,Muy bajo
+slovenia,europe,2566000000,104502000,4739000,5.8,Bajo,Alto,Medio,Alto
+"bahamas, the",central america and the caribbean,2512000000,104409000,608000,2.8,Bajo,Alto,Bajo,Muy bajo
+rwanda,africa,2406000000,1808000,294000,3.8,Bajo,Muy bajo,Muy bajo,Bajo
+estonia,europe,2054000000,73679000,3225000,6.6,Bajo,Alto,Medio,Muy alto
+mauritania,africa,2039000000,14135000,812000,1.9,Bajo,Bajo,Bajo,Muy bajo
+guinea,africa,1887000000,5235000,1060000,2.2,Bajo,Muy bajo,Bajo,Muy bajo
+senegal,africa,1827000000,8303000,1772000,5.5,Bajo,Muy bajo,Bajo,Alto
+laos,east and southeast asia,1770000000,34463000,12738000,2.3,Bajo,Medio,Alto,Muy bajo
+barbados,central america and the caribbean,1606000000,68293000,320000,6.5,Bajo,Alto,Muy bajo,Muy alto
+fiji,australia and oceania,1597000000,25375000,427000,5.7,Bajo,Bajo,Bajo,Alto
+suriname,south america,1530000000,60896000,537000,5.0,Bajo,Medio,Bajo,Alto
+aruba,central america and the caribbean,1468000000,153952000,305000,5.5,Bajo,Muy alto,Muy bajo,Alto
+gabon,africa,1447000000,22101000,785000,3.2,Bajo,Bajo,Bajo,Bajo
+malta,europe,1402000000,234698000,829000,5.9,Bajo,Muy alto,Bajo,Alto
+west bank,middle east,1328000000,14991000,352000,5.3,Bajo,Bajo,Muy bajo,Alto
+gaza strip,middle east,1328000000,14991000,352000,5.3,Bajo,Bajo,Muy bajo,Alto
+niger,africa,1314000000,1772000,377000,3.8,Bajo,Muy bajo,Bajo,Bajo
+chad,africa,1050000000,1502000,167000,2.9,Bajo,Muy bajo,Muy bajo,Muy bajo
+guyana,south america,1010000000,46045000,259000,4.5,Bajo,Medio,Muy bajo,Medio
+bhutan,south asia,928229000,64082000,2344000,7.0,Bajo,Medio,Bajo,Muy alto
+cyprus,europe,921269000,107188000,2288000,6.1,Bajo,Alto,Bajo,Muy alto
+lesotho,africa,854089000,8117000,104000,8.7,Bajo,Muy bajo,Muy bajo,Muy alto
+cabo verde,africa,783106000,19999000,200000,7.6,Muy bajo,Bajo,Muy bajo,Muy alto
+timor-leste,east and southeast asia,781995000,6825000,277000,4.2,Muy bajo,Muy bajo,Muy bajo,Medio
+seychelles,africa,773678000,98847000,156000,5.2,Muy bajo,Alto,Muy bajo,Alto
+"congo, republic of the",africa,715391000,7351000,842000,4.5,Muy bajo,Muy bajo,Bajo,Medio
+benin,africa,698900000,6472000,505000,3.0,Muy bajo,Muy bajo,Bajo,Muy bajo
+solomon islands,australia and oceania,688220000,5655000,37000,12.8,Muy bajo,Muy bajo,Muy bajo,Muy alto
+maldives,south asia,673203000,50886000,432000,5.8,Muy bajo,Medio,Bajo,Alto
+mali,africa,647800000,4307000,1222000,4.4,Muy bajo,Muy bajo,Bajo,Medio
+vanuatu,australia and oceania,643768000,12934000,39000,2.2,Muy bajo,Bajo,Muy bajo,Muy bajo
+liberia,africa,599660000,1822000,199000,2.7,Muy bajo,Muy bajo,Muy bajo,Muy bajo
+malawi,africa,594498000,1792000,731000,2.9,Muy bajo,Muy bajo,Bajo,Muy bajo
+"gambia, the",africa,577028000,2731000,162000,2.8,Muy bajo,Muy bajo,Muy bajo,Muy bajo
+samoa,australia and oceania,507740000,23476000,54000,4.8,Muy bajo,Bajo,Muy bajo,Medio
+belize,central america and the caribbean,498087000,30752000,220000,8.7,Muy bajo,Medio,Muy bajo,Muy alto
+sierra leone,africa,495699000,2301000,149000,9.1,Muy bajo,Muy bajo,Muy bajo,Muy alto
+central african republic,africa,479593000,954000,63000,2.2,Muy bajo,Muy bajo,Muy bajo,Muy bajo
+eswatini,africa,479261000,18823000,285000,5.0,Muy bajo,Bajo,Muy bajo,Alto
+grenada,central america and the caribbean,423263000,41703000,60000,3.6,Muy bajo,Medio,Muy bajo,Bajo
+saint lucia,central america and the caribbean,406064000,47522000,93000,3.6,Muy bajo,Medio,Muy bajo,Bajo
+tonga,australia and oceania,396530000,23272000,34000,6.6,Muy bajo,Bajo,Muy bajo,Muy alto
+antigua and barbuda,central america and the caribbean,358441000,110114000,148000,3.8,Muy bajo,Alto,Muy bajo,Bajo
+guinea-bissau,africa,356400000,2351000,29000,2.7,Muy bajo,Muy bajo,Muy bajo,Muy bajo
+djibouti,africa,348725000,10428000,210000,3.6,Muy bajo,Bajo,Muy bajo,Bajo
+comoros,africa,322436000,7139000,32000,2.6,Muy bajo,Muy bajo,Muy bajo,Muy bajo
+saint vincent and the grenadines,central america and the caribbean,316824000,37253000,55000,5.7,Muy bajo,Medio,Muy bajo,Alto
+saint kitts and nevis,central america and the caribbean,294748000,81454000,72000,2.5,Muy bajo,Alto,Muy bajo,Muy bajo
+zimbabwe,africa,261373000,10855000,2491000,3.9,Muy bajo,Bajo,Medio,Bajo
+cayman islands,central america and the caribbean,234000000,143149000,176000,2.1,Muy bajo,Muy alto,Muy bajo,Muy bajo
+dominica,central america and the caribbean,155971000,36395000,41000,5.5,Muy bajo,Medio,Muy bajo,Alto
+burundi,africa,90350000,946000,131000,5.0,Muy bajo,Muy bajo,Muy bajo,Alto
+bolivia,south america,87100000,29340000,4375000,9.8,Muy bajo,Medio,Medio,Muy alto
+togo,africa,77800000,4538000,326000,4.0,Muy bajo,Muy bajo,Muy bajo,Medio
+south sudan,africa,72881000,2092000,136000,1.5,Muy bajo,Muy bajo,Muy bajo,Muy bajo
+burkina faso,africa,49000000,3481000,749000,5.5,Muy bajo,Muy bajo,Bajo,Alto
+sao tome and principe,africa,46247000,8875000,29000,5.0,Muy bajo,Bajo,Muy bajo,Alto
+somalia,africa,30450000,649000,156000,0.3,Muy bajo,Muy bajo,Muy bajo,Muy bajo
